@@ -9,7 +9,7 @@
     "experimentalDecorators": true
   },
   "files": [
-    "typings/immutable/immutable.d.ts",
+    "typings/hammerjs.d.ts",
     "typings/browser/ambient/es6-promise/es6-promise.d.ts",
     "typings/browser/ambient/es6-collections/es6-collections.d.ts"
   ],

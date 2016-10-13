@@ -1,9 +1,9 @@
-# angular2 flux example
+# angular2 material components demo with webpack
 
-Angular2 Material example
+Angular2 Material Components Demo - as found in [https://github.com/angular/material2/tree/master/src/demo-app](https://github.com/angular/material2/tree/master/src/demo-app)
 
-Examples of tests for actions/ stores/ components with externally injected dependencies (including Http.get spy example)
-             
+Currently not available yet at [https://material.angular.io/](https://material.angular.io/) 
+
 ## Getting started
 
 1. Install dependencies and start compiling:

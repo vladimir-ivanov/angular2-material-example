@@ -12,6 +12,7 @@ import '@angular/common';
 import '@angular/http';
 import '@angular/forms';
 import '@angular/router';
+import '@angular/material';
 
 import 'rxjs/add/operator/map';
 import 'rxjs/add/operator/mergeMap';
